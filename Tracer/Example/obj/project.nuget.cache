@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XINz7KMfInQPyQC+UwxFtJe2Nu4Pq6yEV4Z5xkbJplfne9iH6gLzLHKXN3/a3Bt4CDx0Sew+HIULzBH6h4H/5w==",
+  "success": true,
+  "projectFilePath": "D:\\3 курс\\СПП\\l1\\Tracer\\Example\\Example.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\yamldotnet\\12.0.2\\yamldotnet.12.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

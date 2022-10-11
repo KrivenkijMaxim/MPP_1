@@ -1,0 +1,82 @@
+{
+     "__type": "TraceResultDto:#SerializationAbstractions",
+     "threads": [
+          {
+               "Key": 4,
+               "Value": {
+                    "elapsed": 1104,
+                    "methods": [
+                         {
+                              "class": "TestClass",
+                              "method": "Method1",
+                              "elapsed": 1104,
+                              "childs": [
+                                   {
+                                        "class": "TestClass",
+                                        "method": "Method3",
+                                        "elapsed": 902,
+                                        "childs": [
+                                             {
+                                                  "class": "TestClass",
+                                                  "method": "Method4",
+                                                  "elapsed": 902,
+                                                  "childs": [
+                                                       {
+                                                            "class": "TestClass",
+                                                            "method": "Method5",
+                                                            "elapsed": 500,
+                                                            "childs": [ ]
+                                                       }
+                                                  ]
+                                             }
+                                        ]
+                                   }
+                              ]
+                         }
+                    ]
+               }
+          },
+          {
+               "Key": 5,
+               "Value": {
+                    "elapsed": 901,
+                    "methods": [
+                         {
+                              "class": "TestClass",
+                              "method": "Method3",
+                              "elapsed": 901,
+                              "childs": [
+                                   {
+                                        "class": "TestClass",
+                                        "method": "Method4",
+                                        "elapsed": 901,
+                                        "childs": [
+                                             {
+                                                  "class": "TestClass",
+                                                  "method": "Method5",
+                                                  "elapsed": 501,
+                                                  "childs": [ ]
+                                             }
+                                        ]
+                                   }
+                              ]
+                         }
+                    ]
+               }
+          },
+          {
+               "Key": 6,
+               "Value": {
+                    "elapsed": 501,
+                    "methods": [
+                         {
+                              "class": "TestClass",
+                              "method": "Method5",
+                              "elapsed": 501,
+                              "childs": [ ]
+                         }
+                    ]
+               }
+          }
+     ]
+}

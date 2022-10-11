@@ -1,0 +1,17 @@
+D:\3 курс\СПП\l1\Tracer.Serialization\Yaml\bin\Debug\net5.0\Yaml.deps.json
+D:\3 курс\СПП\l1\Tracer.Serialization\Yaml\bin\Debug\net5.0\Yaml.dll
+D:\3 курс\СПП\l1\Tracer.Serialization\Yaml\bin\Debug\net5.0\ref\Yaml.dll
+D:\3 курс\СПП\l1\Tracer.Serialization\Yaml\bin\Debug\net5.0\Yaml.pdb
+D:\3 курс\СПП\l1\Tracer.Serialization\Yaml\bin\Debug\net5.0\Core.dll
+D:\3 курс\СПП\l1\Tracer.Serialization\Yaml\bin\Debug\net5.0\SerializationAbstractions.dll
+D:\3 курс\СПП\l1\Tracer.Serialization\Yaml\bin\Debug\net5.0\Core.pdb
+D:\3 курс\СПП\l1\Tracer.Serialization\Yaml\bin\Debug\net5.0\SerializationAbstractions.pdb
+D:\3 курс\СПП\l1\Tracer.Serialization\Yaml\obj\Debug\net5.0\Yaml.csproj.AssemblyReference.cache
+D:\3 курс\СПП\l1\Tracer.Serialization\Yaml\obj\Debug\net5.0\Yaml.GeneratedMSBuildEditorConfig.editorconfig
+D:\3 курс\СПП\l1\Tracer.Serialization\Yaml\obj\Debug\net5.0\Yaml.AssemblyInfoInputs.cache
+D:\3 курс\СПП\l1\Tracer.Serialization\Yaml\obj\Debug\net5.0\Yaml.AssemblyInfo.cs
+D:\3 курс\СПП\l1\Tracer.Serialization\Yaml\obj\Debug\net5.0\Yaml.csproj.CoreCompileInputs.cache
+D:\3 курс\СПП\l1\Tracer.Serialization\Yaml\obj\Debug\net5.0\Yaml.csproj.CopyComplete
+D:\3 курс\СПП\l1\Tracer.Serialization\Yaml\obj\Debug\net5.0\Yaml.dll
+D:\3 курс\СПП\l1\Tracer.Serialization\Yaml\obj\Debug\net5.0\ref\Yaml.dll
+D:\3 курс\СПП\l1\Tracer.Serialization\Yaml\obj\Debug\net5.0\Yaml.pdb

@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net5.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Reference Include="Core">
+        <HintPath>..\..\Tracer\Core\bin\Debug\net5.0\Core.dll</HintPath>
+      </Reference>
+      <Reference Include="SerializationAbstractions">
+        <HintPath>..\..\Tracer\SerializationAbstractions\bin\Debug\net5.0\SerializationAbstractions.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
+</Project>

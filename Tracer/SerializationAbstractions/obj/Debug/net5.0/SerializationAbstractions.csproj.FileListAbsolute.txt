@@ -1,0 +1,15 @@
+D:\3 курс\СПП\l1\Tracer\SerializationAbstractions\bin\Debug\net5.0\SerializationAbstractions.deps.json
+D:\3 курс\СПП\l1\Tracer\SerializationAbstractions\bin\Debug\net5.0\SerializationAbstractions.dll
+D:\3 курс\СПП\l1\Tracer\SerializationAbstractions\bin\Debug\net5.0\ref\SerializationAbstractions.dll
+D:\3 курс\СПП\l1\Tracer\SerializationAbstractions\bin\Debug\net5.0\SerializationAbstractions.pdb
+D:\3 курс\СПП\l1\Tracer\SerializationAbstractions\bin\Debug\net5.0\Core.dll
+D:\3 курс\СПП\l1\Tracer\SerializationAbstractions\bin\Debug\net5.0\Core.pdb
+D:\3 курс\СПП\l1\Tracer\SerializationAbstractions\obj\Debug\net5.0\SerializationAbstractions.csproj.AssemblyReference.cache
+D:\3 курс\СПП\l1\Tracer\SerializationAbstractions\obj\Debug\net5.0\SerializationAbstractions.GeneratedMSBuildEditorConfig.editorconfig
+D:\3 курс\СПП\l1\Tracer\SerializationAbstractions\obj\Debug\net5.0\SerializationAbstractions.AssemblyInfoInputs.cache
+D:\3 курс\СПП\l1\Tracer\SerializationAbstractions\obj\Debug\net5.0\SerializationAbstractions.AssemblyInfo.cs
+D:\3 курс\СПП\l1\Tracer\SerializationAbstractions\obj\Debug\net5.0\SerializationAbstractions.csproj.CoreCompileInputs.cache
+D:\3 курс\СПП\l1\Tracer\SerializationAbstractions\obj\Debug\net5.0\SerializationAbstractions.csproj.CopyComplete
+D:\3 курс\СПП\l1\Tracer\SerializationAbstractions\obj\Debug\net5.0\SerializationAbstractions.dll
+D:\3 курс\СПП\l1\Tracer\SerializationAbstractions\obj\Debug\net5.0\ref\SerializationAbstractions.dll
+D:\3 курс\СПП\l1\Tracer\SerializationAbstractions\obj\Debug\net5.0\SerializationAbstractions.pdb

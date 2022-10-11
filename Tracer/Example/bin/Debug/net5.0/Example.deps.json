@@ -1,0 +1,80 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Example/1.0.0": {
+        "dependencies": {
+          "Core": "1.0.0",
+          "SerializationAbstractions": "1.0.0",
+          "Serialization": "1.0.0.0"
+        },
+        "runtime": {
+          "Example.dll": {}
+        }
+      },
+      "YamlDotNet/12.0.2": {
+        "runtime": {
+          "lib/netstandard2.1/YamlDotNet.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.2.0"
+          }
+        }
+      },
+      "Core/1.0.0": {
+        "runtime": {
+          "Core.dll": {}
+        }
+      },
+      "SerializationAbstractions/1.0.0": {
+        "dependencies": {
+          "Core": "1.0.0",
+          "YamlDotNet": "12.0.2"
+        },
+        "runtime": {
+          "SerializationAbstractions.dll": {}
+        }
+      },
+      "Serialization/1.0.0.0": {
+        "runtime": {
+          "Serialization.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Example/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "YamlDotNet/12.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IFj2oDZYJIv5sM8mqaj5edVrpgUyoXk/wCGqZQJrgys/0tBajajpjRSgFM+iA/9ILOfTsPYKtcDcwvqBnBcNIg==",
+      "path": "yamldotnet/12.0.2",
+      "hashPath": "yamldotnet.12.0.2.nupkg.sha512"
+    },
+    "Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SerializationAbstractions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Serialization/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

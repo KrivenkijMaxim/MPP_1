@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sXCV7D1/8tvmOC/saXzX5vSy2kczxtffIOatLwWMnUI3DSoKXtcoIDZ3yWtpeYYQfeb0RTxoBsWHoH4Bf8qbjQ==",
+  "success": true,
+  "projectFilePath": "D:\\3 курс\\СПП\\l1\\Tracer\\SerializationAbstractions\\SerializationAbstractions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\yamldotnet\\12.0.2\\yamldotnet.12.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

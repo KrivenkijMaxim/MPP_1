@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net5.0</TargetFramework>
+        <OutputType>Exe</OutputType>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Core\Core.csproj" />
+      <ProjectReference Include="..\SerializationAbstractions\SerializationAbstractions.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Reference Include="Serialization">
+        <HintPath>..\Serialization\bin\Debug\net5.0\Serialization.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
+</Project>

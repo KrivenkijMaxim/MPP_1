@@ -1,0 +1,17 @@
+D:\3 курс\СПП\l1\Tracer.Serialization\Json\bin\Debug\net5.0\Json.deps.json
+D:\3 курс\СПП\l1\Tracer.Serialization\Json\bin\Debug\net5.0\Json.dll
+D:\3 курс\СПП\l1\Tracer.Serialization\Json\bin\Debug\net5.0\ref\Json.dll
+D:\3 курс\СПП\l1\Tracer.Serialization\Json\bin\Debug\net5.0\Json.pdb
+D:\3 курс\СПП\l1\Tracer.Serialization\Json\bin\Debug\net5.0\Core.dll
+D:\3 курс\СПП\l1\Tracer.Serialization\Json\bin\Debug\net5.0\SerializationAbstractions.dll
+D:\3 курс\СПП\l1\Tracer.Serialization\Json\bin\Debug\net5.0\Core.pdb
+D:\3 курс\СПП\l1\Tracer.Serialization\Json\bin\Debug\net5.0\SerializationAbstractions.pdb
+D:\3 курс\СПП\l1\Tracer.Serialization\Json\obj\Debug\net5.0\Json.csproj.AssemblyReference.cache
+D:\3 курс\СПП\l1\Tracer.Serialization\Json\obj\Debug\net5.0\Json.GeneratedMSBuildEditorConfig.editorconfig
+D:\3 курс\СПП\l1\Tracer.Serialization\Json\obj\Debug\net5.0\Json.AssemblyInfoInputs.cache
+D:\3 курс\СПП\l1\Tracer.Serialization\Json\obj\Debug\net5.0\Json.AssemblyInfo.cs
+D:\3 курс\СПП\l1\Tracer.Serialization\Json\obj\Debug\net5.0\Json.csproj.CoreCompileInputs.cache
+D:\3 курс\СПП\l1\Tracer.Serialization\Json\obj\Debug\net5.0\Json.csproj.CopyComplete
+D:\3 курс\СПП\l1\Tracer.Serialization\Json\obj\Debug\net5.0\Json.dll
+D:\3 курс\СПП\l1\Tracer.Serialization\Json\obj\Debug\net5.0\ref\Json.dll
+D:\3 курс\СПП\l1\Tracer.Serialization\Json\obj\Debug\net5.0\Json.pdb

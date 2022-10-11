@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Json", "Json\Json.csproj", "{BC81E8E8-EB89-485F-9B7B-FA52BB1E8C18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xml", "Xml\Xml.csproj", "{B9D9A1D5-8F64-4C9C-A6E1-709FF9F25BBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yaml", "Yaml\Yaml.csproj", "{AFD71BDA-B190-45CF-B092-FA34A5718D7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC81E8E8-EB89-485F-9B7B-FA52BB1E8C18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC81E8E8-EB89-485F-9B7B-FA52BB1E8C18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC81E8E8-EB89-485F-9B7B-FA52BB1E8C18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC81E8E8-EB89-485F-9B7B-FA52BB1E8C18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9D9A1D5-8F64-4C9C-A6E1-709FF9F25BBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9D9A1D5-8F64-4C9C-A6E1-709FF9F25BBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9D9A1D5-8F64-4C9C-A6E1-709FF9F25BBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9D9A1D5-8F64-4C9C-A6E1-709FF9F25BBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFD71BDA-B190-45CF-B092-FA34A5718D7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFD71BDA-B190-45CF-B092-FA34A5718D7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFD71BDA-B190-45CF-B092-FA34A5718D7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFD71BDA-B190-45CF-B092-FA34A5718D7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

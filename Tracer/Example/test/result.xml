@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TraceResult xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns:d1p1="http://schemas.datacontract.org/2004/07/SerializationAbstractions" i:type="d1p1:TraceResultDto" xmlns="http://schemas.datacontract.org/2004/07/Core">
+     <d1p1:threads xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+          <d2p1:KeyValueOfintThreadTraceResultDtosoJTrOam>
+               <d2p1:Key>4</d2p1:Key>
+               <d2p1:Value>
+                    <d1p1:elapsed>1104</d1p1:elapsed>
+                    <d1p1:methods>
+                         <d1p1:MethodTraceResultDto>
+                              <d1p1:class>TestClass</d1p1:class>
+                              <d1p1:method>Method1</d1p1:method>
+                              <d1p1:elapsed>1104</d1p1:elapsed>
+                              <d1p1:childs>
+                                   <d1p1:MethodTraceResultDto>
+                                        <d1p1:class>TestClass</d1p1:class>
+                                        <d1p1:method>Method3</d1p1:method>
+                                        <d1p1:elapsed>902</d1p1:elapsed>
+                                        <d1p1:childs>
+                                             <d1p1:MethodTraceResultDto>
+                                                  <d1p1:class>TestClass</d1p1:class>
+                                                  <d1p1:method>Method4</d1p1:method>
+                                                  <d1p1:elapsed>902</d1p1:elapsed>
+                                                  <d1p1:childs>
+                                                       <d1p1:MethodTraceResultDto>
+                                                            <d1p1:class>TestClass</d1p1:class>
+                                                            <d1p1:method>Method5</d1p1:method>
+                                                            <d1p1:elapsed>500</d1p1:elapsed>
+                                                            <d1p1:childs />
+                                                       </d1p1:MethodTraceResultDto>
+                                                  </d1p1:childs>
+                                             </d1p1:MethodTraceResultDto>
+                                        </d1p1:childs>
+                                   </d1p1:MethodTraceResultDto>
+                              </d1p1:childs>
+                         </d1p1:MethodTraceResultDto>
+                    </d1p1:methods>
+               </d2p1:Value>
+          </d2p1:KeyValueOfintThreadTraceResultDtosoJTrOam>
+          <d2p1:KeyValueOfintThreadTraceResultDtosoJTrOam>
+               <d2p1:Key>5</d2p1:Key>
+               <d2p1:Value>
+                    <d1p1:elapsed>901</d1p1:elapsed>
+                    <d1p1:methods>
+                         <d1p1:MethodTraceResultDto>
+                              <d1p1:class>TestClass</d1p1:class>
+                              <d1p1:method>Method3</d1p1:method>
+                              <d1p1:elapsed>901</d1p1:elapsed>
+                              <d1p1:childs>
+                                   <d1p1:MethodTraceResultDto>
+                                        <d1p1:class>TestClass</d1p1:class>
+                                        <d1p1:method>Method4</d1p1:method>
+                                        <d1p1:elapsed>901</d1p1:elapsed>
+                                        <d1p1:childs>
+                                             <d1p1:MethodTraceResultDto>
+                                                  <d1p1:class>TestClass</d1p1:class>
+                                                  <d1p1:method>Method5</d1p1:method>
+                                                  <d1p1:elapsed>501</d1p1:elapsed>
+                                                  <d1p1:childs />
+                                             </d1p1:MethodTraceResultDto>
+                                        </d1p1:childs>
+                                   </d1p1:MethodTraceResultDto>
+                              </d1p1:childs>
+                         </d1p1:MethodTraceResultDto>
+                    </d1p1:methods>
+               </d2p1:Value>
+          </d2p1:KeyValueOfintThreadTraceResultDtosoJTrOam>
+          <d2p1:KeyValueOfintThreadTraceResultDtosoJTrOam>
+               <d2p1:Key>6</d2p1:Key>
+               <d2p1:Value>
+                    <d1p1:elapsed>501</d1p1:elapsed>
+                    <d1p1:methods>
+                         <d1p1:MethodTraceResultDto>
+                              <d1p1:class>TestClass</d1p1:class>
+                              <d1p1:method>Method5</d1p1:method>
+                              <d1p1:elapsed>501</d1p1:elapsed>
+                              <d1p1:childs />
+                         </d1p1:MethodTraceResultDto>
+                    </d1p1:methods>
+               </d2p1:Value>
+          </d2p1:KeyValueOfintThreadTraceResultDtosoJTrOam>
+     </d1p1:threads>
+</TraceResult>
